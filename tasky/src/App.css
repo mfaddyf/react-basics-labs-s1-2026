@@ -26,6 +26,10 @@ div {
   font-style: italic;
 }
 
+.priority{
+  font-weight: bold;
+}
+
 .card {
   display: inline-block;
   vertical-align: top;
